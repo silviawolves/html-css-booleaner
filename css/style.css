@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
 #logo-booleaner {
     background-image: url("../img/pattern.png");
     background-color: rgb(63, 139, 235);
@@ -12,7 +17,11 @@
     left: 10px;
 }
 
-header .title {
+main {
+    margin-left: 10px;
+}
+
+main .title {
     font-size: 55px;
     font-weight: 800;
     line-height: 55px;
@@ -32,4 +41,9 @@ header .title {
 
 #article-details .date {
     font-size: 15px;
+}
+
+figure img {
+    height: 490px;
+    margin-top: 20px;
 }
