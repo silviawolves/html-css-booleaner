@@ -1,0 +1,17 @@
+main, footer {
+    margin-left: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+figure img {
+    height: 400px;
+    margin-top: 20px;
+}
+
+#logo-booleaner img {
+    height: 70px;
+    position: absolute;
+    bottom: 10px;
+    left: 140px;
+}
