@@ -55,3 +55,25 @@ figure img {
 figcaption {
     font-size: 15px;
 }
+
+table {
+    border-spacing: 0;
+}
+
+thead {
+    background-color: rgb(72, 183, 252);
+    color: white;
+    text-align: left;
+}
+
+td {
+    width: 350px;
+}
+
+.major-table-column {
+    width: 650px;
+}
+
+.blue-row {
+    background-color: lightblue;
+}
